@@ -1,0 +1,11 @@
+/*----------Custom Icons----------*/
+.cd-form .icon input{
+  padding-left: 54px !important;
+}
+.cd-form .m-user {
+  background: url("../img/ic_member_username.svg") no-repeat 16px center;
+}
+
+.cd-form .m-pass {
+  background: url("../img/ic_member_pass.svg") no-repeat 16px center;
+}
